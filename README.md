@@ -7,29 +7,29 @@ Location: **Puck County, Pomeranian District, Poland**
 Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
 
 ## Work experience
-#### 2014 – present
+### 2014 – present
 **[Adva Optical Networking SE](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
 Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).  
 Responsible for:
 * Security (prime)
 * High Availability (prime)
 * Build Master
-##### 2009 – 2014
+#### 2009 – 2014
 **[Adva Optical Networking SE](http://www.advaoptical.com/)  - R&D Engineer Software.**  
 Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
-##### 2008 – 2009
+#### 2008 – 2009
 **InteliWISE SA - Web Developer**  
 Architect and programmer at AvaGuide.net.
-##### 2006 – 2008
+#### 2006 – 2008
 **Implix** (now GetResponse) - **Web Application Developer**  
 Involved in projects: TalkStream, WebsiteWizard.
 
 ## Education
-#### 2005 – 2007
+### 2005 – 2007
 **Master of Engineering in Computer Science majoring in "Application of Database Systems"**  
 Master's Thesis: "IT Job Portal"  
 Koszalin University of Technology, Faculty of Electronics and Computer Science  
-##### 2001 - 2005
+#### 2001 - 2005
 **Engineer's degree in Computer Science majoring in "Information Systems in Management Networks"**  
 Engineering Thesis: "Database Application to Support Holidays Homes"  
 Koszalin University of Technology, Faculty of Electronics and Computer Science
