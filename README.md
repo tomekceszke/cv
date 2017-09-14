@@ -18,7 +18,7 @@ Main roles:
 * Build Master
 * Member of Infrastructure team
 * Member of Machine Learning group
-* Trainer
+* Trainer ([last training](https://github.com/tomekceszke/ml-applications))
 #### 2009 – 2014
 **[Adva Optical Networking](http://www.advaoptical.com/)  - R&D Engineer Software.**  
 Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
@@ -30,9 +30,9 @@ Architect and programmer.
 Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
 
 ## Non-proffesional experience
-* Machine learning - **[My projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
-* Internet of Things - **[My projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
-* Security - **[My projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
+* Machine learning - **[My ML projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
+* Internet of Things - **[My IoT projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
+* Offensive Security - **[My security related projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
 
 ## Education
 ### 2005 – 2007
@@ -54,10 +54,10 @@ November 2007: **XML Schema modelling** (Altkom Akademia)
 October 2006: **UML 2.0 modelling** (Altkom Akademia)  
 
 ## Conferences
-May 2017: **[infoShare 2017](https://infoshare.pl/): Tech, New Media & Startups Festival**  
-May 2016: **[infoShare 2016](https://infoshare.pl/): Tech, New Media & Startups Festival**  
-May 2015: **[Geecon](http://geecon.org/) 2015: Lets move the JAVA WORLD!**  
-June 2014: **[33rd Degree](http://2014.33degree.org/): Conference for Java Masters** 
+May 2017: **[infoShare](https://infoshare.pl/) 2017:** Tech, New Media & Startups Festival  
+May 2016: **[infoShare](https://infoshare.pl/) 2016:** Tech, New Media & Startups Festival  
+May 2015: **[Geecon](http://geecon.org/) 2015:** Lets move the JAVA WORLD!  
+June 2014: **[33rd Degree](http://2014.33degree.org/):** Conference for Java Masters 
 
 ## Certificates
 August 2013: **[Oracle Certified Professional: Java SE 6 Programmer](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-851&p_org_id=&lang=g)**
