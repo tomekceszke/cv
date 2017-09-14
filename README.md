@@ -8,7 +8,7 @@ Home page: **[tomek.ceszke.com](http://tomek.ceszke.com/)**
 LinkedIn: **https://www.linkedin.com/in/tomekceszke**  
 Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
 
-## Proffesional experience
+## Professional experience
 ### 2014 – present
 **[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
 Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).  
@@ -29,7 +29,7 @@ Architect and programmer.
 **[Implix](http://www.getresponse.com)** (now GetResponse) - **Web Application Developer**  
 Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
 
-## Non-proffesional experience
+## Non-professional experience
 * Machine learning - **[My ML projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
 * Internet of Things - **[My IoT projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
 * Offensive Security - **[My security related projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
