@@ -4,6 +4,8 @@
 Name: **Tomasz Ceszke**  
 Age: **35**  
 Location: **Puck County, Pomeranian District, Poland**  
+Home page: **[tomek.ceszke.com](http://tomek.ceszke.com/)**  
+LinkedIn: **https://www.linkedin.com/in/tomekceszke**  
 Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
 
 ## Proffesional experience
@@ -22,15 +24,15 @@ Main roles:
 Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
 #### 2008 – 2009
 **[InteliWISE](http://www.inteliwise.com/) - Web Developer**  
-Architect and programmer
+Architect and programmer.
 #### 2006 – 2008
 **[Implix](http://www.getresponse.com)** (now GetResponse) - **Web Application Developer**  
-Developer in projects: [TalkStream](http://talkstream.com/)(now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
+Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
 
 ## Non-proffesional experience
-* [Machine learning](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)
-* [Internet of Things](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)
-* [Security](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)
+* Machine learning - **[My projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
+* Internet of Things - **[My projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
+* Security - **[My projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
 
 ## Education
 ### 2005 – 2007
@@ -46,7 +48,7 @@ Engineering Thesis: "Database Application to Support Holidays Homes"
 July 2017: **Zertifikate & PKI** (ExperTeach München)  
 September 2016: **Attacking and securing web applications** (niebezpiecznik.pl)  
 February 2012: **Preparation to Oracle Certified Professional, Java SE Programmer** (Altkom Akademia)  
-December 2010: **Developing JEE Architecture (BNS IT)**  
+December 2010: **Developing JEE Architecture** (BNS IT)  
 December 2009: **Design patterns and refactoring to the patterns** (BNS IT)  
 November 2007: **XML Schema modelling** (Altkom Akademia)  
 October 2006: **UML 2.0 modelling** (Altkom Akademia)  
