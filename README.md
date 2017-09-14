@@ -6,33 +6,43 @@ Age: **35**
 Location: **Puck County, Pomeranian District, Poland**  
 Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
 
-## Work experience
+## Proffesional experience
 ### 2014 – present
-**[Adva Optical Networking SE](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
+**[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
 Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).  
 Responsible for:
 * Security (prime)
 * High Availability (prime)
 * Build Master
 #### 2009 – 2014
-**[Adva Optical Networking SE](http://www.advaoptical.com/)  - R&D Engineer Software.**  
+**[Adva Optical Networking](http://www.advaoptical.com/)  - R&D Engineer Software.**  
 Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
 #### 2008 – 2009
-**InteliWISE SA - Web Developer**  
+**[InteliWISE](http://www.inteliwise.com/) - Web Developer**  
 Architect and programmer at AvaGuide.net.
 #### 2006 – 2008
-**Implix** (now GetResponse) - **Web Application Developer**  
+**[Implix](http://www.getresponse.com)** (now GetResponse) - **Web Application Developer**  
 Involved in projects: TalkStream, WebsiteWizard.
+
+## Non-proffesional experience
+
+### Machine learning
+* 
+### Internet of Things
+
+### Security
+
+
 
 ## Education
 ### 2005 – 2007
 **Master of Engineering in Computer Science majoring in "Application of Database Systems"**  
 Master's Thesis: "IT Job Portal"  
-Koszalin University of Technology, Faculty of Electronics and Computer Science  
+[Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science  
 #### 2001 - 2005
 **Engineer's degree in Computer Science majoring in "Information Systems in Management Networks"**  
 Engineering Thesis: "Database Application to Support Holidays Homes"  
-Koszalin University of Technology, Faculty of Electronics and Computer Science
+[Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science
 
 ## Trainings
 July 2017: **Zertifikate & PKI** (ExperTeach München)  
@@ -44,10 +54,10 @@ November 2007: **XML Schema modelling** (Altkom Akademia)
 October 2006: **UML 2.0 modelling** (Altkom Akademia)  
 
 ## Conferences
-May 2017: **infoShare 2017: Tech, New Media & Startups Festival**  
-May 2016: **infoShare 2016: Tech, New Media & Startups Festival**  
-May 2015: **Geecon 2015: Lets move the JAVA WORLD!**  
-June 2014: **33rd Degree: Conference for Java Masters** 
+May 2017: **[infoShare 2017](https://infoshare.pl/): Tech, New Media & Startups Festival**  
+May 2016: **[infoShare 2016](https://infoshare.pl/): Tech, New Media & Startups Festival**  
+May 2015: **[Geecon](http://geecon.org/) 2015: Lets move the JAVA WORLD!**  
+June 2014: **[33rd Degree](http://2014.33degree.org/): Conference for Java Masters** 
 
 ## Certificates
-August 2013: **Oracle Certified Professional: Java SE 6 Programmer**
+August 2013: **[Oracle Certified Professional: Java SE 6 Programmer](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-851&p_org_id=&lang=g)**
