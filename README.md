@@ -10,29 +10,27 @@ Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**
 ### 2014 – present
 **[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
 Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).  
-Responsible for:
-* Security (prime)
-* High Availability (prime)
+Main roles:
+* Security area - prime
+* High Availability - prime
 * Build Master
+* Member of Infrastructure team
+* Member of Machine Learning group
+* Trainer
 #### 2009 – 2014
 **[Adva Optical Networking](http://www.advaoptical.com/)  - R&D Engineer Software.**  
 Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
 #### 2008 – 2009
 **[InteliWISE](http://www.inteliwise.com/) - Web Developer**  
-Architect and programmer at AvaGuide.net.
+Architect and programmer
 #### 2006 – 2008
 **[Implix](http://www.getresponse.com)** (now GetResponse) - **Web Application Developer**  
-Involved in projects: TalkStream, WebsiteWizard.
+Developer in projects: [TalkStream](http://talkstream.com/)(now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
 
 ## Non-proffesional experience
-
-### Machine learning
-* 
-### Internet of Things
-
-### Security
-
-
+* [Machine learning](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)
+* [Internet of Things](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)
+* [Security](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)
 
 ## Education
 ### 2005 – 2007
