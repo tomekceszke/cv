@@ -45,19 +45,19 @@ Engineering Thesis: "Database Application to Support Holidays Homes"
 [Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science
 
 ## Trainings
-July 2017: **Zertifikate & PKI** (ExperTeach München)  
-September 2016: **Attacking and securing web applications** (niebezpiecznik.pl)  
-February 2012: **Preparation to Oracle Certified Professional, Java SE Programmer** (Altkom Akademia)  
-December 2010: **Developing JEE Architecture** (BNS IT)  
-December 2009: **Design patterns and refactoring to the patterns** (BNS IT)  
-November 2007: **XML Schema modelling** (Altkom Akademia)  
-October 2006: **UML 2.0 modelling** (Altkom Akademia)  
+2017: **Zertifikate & PKI** (ExperTeach München)  
+2016: **Attacking and securing web applications** (niebezpiecznik.pl)  
+2012: **Preparation to Oracle Certified Professional, Java SE Programmer** (Altkom Akademia)  
+2010: **Developing JEE Architecture** (BNS IT)  
+2009: **Design patterns and refactoring to the patterns** (BNS IT)  
+2007: **XML Schema modelling** (Altkom Akademia)  
+2006: **UML 2.0 modelling** (Altkom Akademia)  
 
 ## Conferences
-May 2017: **[infoShare](https://infoshare.pl/) 2017:** Tech, New Media & Startups Festival  
-May 2016: **[infoShare](https://infoshare.pl/) 2016:** Tech, New Media & Startups Festival  
-May 2015: **[Geecon](http://geecon.org/) 2015:** Lets move the JAVA WORLD!  
-June 2014: **[33rd Degree](http://2014.33degree.org/):** Conference for Java Masters 
+2017: **[infoShare](https://infoshare.pl/) 2017:** Tech, New Media & Startups Festival  
+2016: **[infoShare](https://infoshare.pl/) 2016:** Tech, New Media & Startups Festival  
+2015: **[Geecon](http://geecon.org/) 2015:** Lets move the JAVA WORLD!  
+2014: **[33rd Degree](http://2014.33degree.org/):** Conference for Java Masters 
 
 ## Certificates
-August 2013: **[Oracle Certified Professional: Java SE 6 Programmer](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-851&p_org_id=&lang=g)**
+2013: **[Oracle Certified Professional: Java SE 6 Programmer](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-851&p_org_id=&lang=g)**
