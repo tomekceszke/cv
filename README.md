@@ -9,7 +9,7 @@ LinkedIn: **https://www.linkedin.com/in/tomekceszke**
 Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
 
 ## Professional experience
-### 2014 – present
+### 2014 – 2017
 **[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
 Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).  
 Main roles:
