@@ -45,7 +45,8 @@ Engineering Thesis: "Database Application to Support Holidays Homes"
 [Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science
 
 ## Trainings
-2017: **Zertifikate & PKI** (ExperTeach München)  
+2017: **Zertifikate & PKI** (ExperTeach München)
+2017: **Machine Learning by Stanford University** (Coursera - online)
 2016: **Attacking and securing web applications** (niebezpiecznik.pl)  
 2012: **Preparation to Oracle Certified Professional, Java SE Programmer** (Altkom Akademia)  
 2010: **Developing JEE Architecture** (BNS IT)  
