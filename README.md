@@ -2,11 +2,11 @@
 
 ## Personal data
 Name: **Tomasz Ceszke**  
-Age: **35**  
+Age: **36**  
 Location: **Puck County, Pomeranian District, Poland**  
 Home page: **[tomek.ceszke.com](http://tomek.ceszke.com/)**  
-LinkedIn: **https://www.linkedin.com/in/tomekceszke**  
-Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
+LinkedIn profile: **https://www.linkedin.com/in/tomekceszke**  
+Contact: see **[contact page](http://tomek.ceszke.com/contact.html)**                  
 
 ## Professional experience
 ### 2017 – present
@@ -29,7 +29,7 @@ Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting), 
 * Machine learning - **[Check my ML projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
 * Internet of Things - **[Check my IoT applications on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
 * Offensive Security - **[Check my security related projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
-* Microservices - **[Check my projects based on microservices on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=microservices)*
+* Microservices - **[Check my projects based on microservices on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=microservices)**
 
 ## Education
 ### 2005 – 2007
