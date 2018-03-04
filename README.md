@@ -9,16 +9,12 @@ LinkedIn: **https://www.linkedin.com/in/tomekceszke**
 Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**                  
 
 ## Professional experience
+### 2017 – present
+**[Astek](http://en.astek.pl/) - Senior Java Developer.**  
+Contractor at **[Roche](http://it.roche.pl/en/)**
 ### 2014 – 2017
 **[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
-Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).  
-Main roles:
-* Security area - prime
-* High Availability - prime
-* Build Master
-* Member of Infrastructure team
-* Member of Machine Learning group
-* Trainer ([last training](https://github.com/tomekceszke/ml-applications))
+Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
 #### 2009 – 2014
 **[Adva Optical Networking](http://www.advaoptical.com/)  - R&D Engineer Software.**  
 Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
