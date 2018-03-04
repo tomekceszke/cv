@@ -12,7 +12,7 @@ Contact: **[Contact page](http://tomek.ceszke.com/contact.html)**
 ### 2017 – present
 **[Astek](http://en.astek.pl/) - Senior Java Developer.**  
 Contractor at **[Roche](http://it.roche.pl/en/)**
-### 2014 – 2017
+#### 2014 – 2017
 **[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
 Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
 #### 2009 – 2014
@@ -26,9 +26,10 @@ Architect and programmer.
 Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
 
 ## Non-professional experience
-* Machine learning - **[My ML projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
-* Internet of Things - **[My IoT projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
-* Offensive Security - **[My security related projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
+* Machine learning - **[Check my ML projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
+* Internet of Things - **[Check my IoT applications on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=iot)**
+* Offensive Security - **[Check my security related projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=offensive-security)**
+* Microservices - **[Check my projects based on microservices on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=microservices)*
 
 ## Education
 ### 2005 – 2007
