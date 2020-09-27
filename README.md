@@ -25,15 +25,15 @@ Responsible for building new payment system from the scratch and integrate it wi
 Responsible for developing automation system for Roche’s In Vivo Research Building “Bau 98”
 
 *Technologies: Java 8, Spring Boot (microservices), Spring Cloud (Eureka, Feign, Hystrix, Ribbon, Zuul), Spring Security, JPA, Hibernate, MySQL, WebSockets, Kafka, Docker, MockMVC, WireMock, Git, Maven, Marathon+DC/OS, Atlassian package, Jenkins, Scrum*
-#### 2009 – 2017
+### 2009 – 2017
 **Regular/Senior R&D Engineer Software at Adva Optical Networking**  
 Backend developer in company's main software product FSP Network Manager
 
 *Technologies: Java 6, REST (Jersey, Jackson, Jetty), Corba, IDL, EclipseLink, AspectJ, Spring DI, ActiveMQ, SNMP, Radius, Tacacs+, PKI, MySQL, PostgreSQL, JUnit, PowerMock, Mockito, SVN, Ant, Ivy, SNMPc, TeamCity (CI/CD), Collabnet TeamForge, Polarion ALM, Waterfall, Scrum*
-#### 2008 – 2009
+### 2008 – 2009
 **Web Developer at InteliWISE**  
 Backend programmer in various company’s projects 
-#### 2006 – 2008
+### 2006 – 2008
 **Web Application Developer at Implix (now GetResponse)**  
 Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting) and [WebsiteWizard](http://websitewizard.com/).
 
@@ -48,7 +48,7 @@ Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting) a
 **Master of Engineering in Computer Science majoring in "Application of Database Systems"**  
 Master's Thesis: "IT Job Portal"  
 [Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science  
-#### 2001 - 2005
+### 2001 - 2005
 **Engineer's degree in Computer Science majoring in "Information Systems in Management Networks"**  
 Engineering Thesis: "Database Application to Support Holidays Homes"  
 [Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science
