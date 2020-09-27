@@ -2,28 +2,37 @@
 
 ## Personal data
 Name: **Tomasz Ceszke**  
-Age: **36**  
-Location: **Puck County, Pomeranian District, Poland**  
 Home page: **[tomek.ceszke.com](http://tomek.ceszke.com/)**  
 LinkedIn profile: **https://www.linkedin.com/in/tomekceszke**  
-Contact: see **[contact page](http://tomek.ceszke.com/contact.html)**                  
+Contact: see **[contact page](http://tomek.ceszke.com/contact.html)**  
+
+## Summary
+- Principal Software Developer with **15 years of professional experience** based on deep theoretical knowledge
+- Specializes in developing software written in **Java**, designed in accordance with **microservice** architecture, that uses persistence and middleware systems
+- Key business domains are: **fintech, healthcare, telecommunication and internet marketing**
+- Highly interested in **Machine Learning, Internet of Things and Cloud Computing**
+- Strong analytical and problem-solving skills
+- Result oriented team player, comfortable with working within Agile environment                
 
 ## Professional experience
-### 2017 – present
-**[Astek](http://en.astek.pl/) - Senior Java Developer.**  
-Contractor at **[Roche](http://it.roche.pl/en/)**
-#### 2014 – 2017
-**[Adva Optical Networking](http://www.advaoptical.com/) - Senior R&D Engineer Software.**  
-Senior Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
-#### 2009 – 2014
-**[Adva Optical Networking](http://www.advaoptical.com/)  - R&D Engineer Software.**  
-Java Developer in project [FSP Network Manager](http://www.advaoptical.com/en/products/automated-network-management/fsp-network-manager.aspx).
+### 2019 – present
+**Senior Java Developer at Euronext Centevo Norway by Jit Team**  
+Responsible for building new payment system from the scratch and integrate it with Norway payments providers (NETS, Evry)
+*Technologies: Java 8, Spring Framework, Spring Boot (microservices), Spring Cloud elements, Hibernate, Cucumber, Git, Maven, Docker, Gitlab, Jenkins, Splunk, Kanban*
+### 2017 – 2019
+**Senior Java Developer at Hoffman-La Roche by Astek**  
+Responsible for developing automation system for Roche’s In Vivo Research Building “Bau 98”
+*Technologies: Java 8, Spring Boot (microservices), Spring Cloud (Eureka, Feign, Hystrix, Ribbon, Zuul), Spring Security, JPA, Hibernate, MySQL, WebSockets, Kafka, Docker, MockMVC, WireMock, Git, Maven, Marathon+DC/OS, Atlassian package, Jenkins, Scrum*
+#### 2009 – 2017
+**Regular/Senior R&D Engineer Software at Adva Optical Networking**  
+Backend developer in company's main software product FSP Network Manager
+*Technologies: Java 6, REST (Jersey, Jackson, Jetty), Corba, IDL, EclipseLink, AspectJ, Spring DI, ActiveMQ, SNMP, Radius, Tacacs+, PKI, MySQL, PostgreSQL, JUnit, PowerMock, Mockito, SVN, Ant, Ivy, SNMPc, TeamCity (CI/CD), Collabnet TeamForge, Polarion ALM, Waterfall, Scrum*
 #### 2008 – 2009
-**[InteliWISE](http://www.inteliwise.com/) - Web Developer**  
-Architect and programmer.
+**Web Developer at InteliWISE**  
+Backend programmer in various company’s projects 
 #### 2006 – 2008
-**[Implix](http://www.getresponse.com)** (now GetResponse) - **Web Application Developer**  
-Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting), [WebsiteWizard](http://websitewizard.com/).
+**Web Application Developer at Implix (now GetResponse)**  
+Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting) and [WebsiteWizard](http://websitewizard.com/).
 
 ## Non-professional experience
 * Machine learning - **[Check my ML projects on GitHub](https://github.com/tomekceszke?utf8=%E2%9C%93&tab=repositories&q=machine-learning)**
