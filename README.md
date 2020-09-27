@@ -54,14 +54,14 @@ Engineering Thesis: "Database Application to Support Holidays Homes"
 [Koszalin University of Technology](http://www.tu.koszalin.pl/eng), Faculty of Electronics and Computer Science
 
 ## Trainings
-**Zertifikate & PKI** (ExperTeach München)  
-**Machine Learning by Stanford University** (Coursera - online)  
-**Attacking and securing web applications** (niebezpiecznik.pl)  
-**Preparation to Oracle Certified Professional, Java SE Programmer** (Altkom Akademia)  
-**Developing JEE Architecture** (BNS IT)  
-**Design patterns and refactoring to the patterns** (BNS IT)  
-**XML Schema modelling** (Altkom Akademia)  
-**UML 2.0 modelling** (Altkom Akademia)  
+Certificates & PKI (ExperTeach München)  
+Machine Learning by Stanford University (Coursera - online)  
+Attacking and securing web applications (niebezpiecznik.pl)  
+Preparation to Oracle Certified Professional, Java SE Programmer (Altkom Akademia)  
+Developing JEE Architecture (BNS IT)  
+Design patterns and refactoring to the patterns (BNS IT)  
+XML Schema modelling (Altkom Akademia)  
+UML 2.0 modelling (Altkom Akademia)  
 
 ## Conferences
 **infoShare:** Tech, New Media & Startups Festival  
