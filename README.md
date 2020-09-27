@@ -15,26 +15,21 @@ Contact: see **[contact page](http://tomek.ceszke.com/contact.html)**
 - Result oriented team player, comfortable with working within Agile environment                
 
 ## Professional experience
-### 2019 – present
-**Senior Java Developer at Euronext Centevo Norway by Jit Team**  
+### 2019 – present Senior Java Developer at Euronext Centevo Norway by Jit Team**  
 Responsible for building new payment system from the scratch and integrate it with Norway payments providers (NETS, Evry)
 
 *Technologies: Java 8, Spring Framework, Spring Boot (microservices), Spring Cloud elements, Hibernate, Cucumber, Git, Maven, Docker, Gitlab, Jenkins, Splunk, Kanban*
-### 2017 – 2019
-**Senior Java Developer at Hoffman-La Roche by Astek**  
+### 2017 – 2019 Senior Java Developer at Hoffman-La Roche by Astek
 Responsible for developing automation system for Roche’s In Vivo Research Building “Bau 98”
 
 *Technologies: Java 8, Spring Boot (microservices), Spring Cloud (Eureka, Feign, Hystrix, Ribbon, Zuul), Spring Security, JPA, Hibernate, MySQL, WebSockets, Kafka, Docker, MockMVC, WireMock, Git, Maven, Marathon+DC/OS, Atlassian package, Jenkins, Scrum*
-### 2009 – 2017
-**Regular/Senior R&D Engineer Software at Adva Optical Networking**  
+### 2009 – 2017 Regular/Senior R&D Engineer Software at Adva Optical Networking**  
 Backend developer in company's main software product FSP Network Manager
 
 *Technologies: Java 6, REST (Jersey, Jackson, Jetty), Corba, IDL, EclipseLink, AspectJ, Spring DI, ActiveMQ, SNMP, Radius, Tacacs+, PKI, MySQL, PostgreSQL, JUnit, PowerMock, Mockito, SVN, Ant, Ivy, SNMPc, TeamCity (CI/CD), Collabnet TeamForge, Polarion ALM, Waterfall, Scrum*
-### 2008 – 2009
-**Web Developer at InteliWISE**  
+### 2008 – 2009 Web Developer at InteliWISE**  
 Backend programmer in various company’s projects 
-### 2006 – 2008
-**Web Application Developer at Implix (now GetResponse)**  
+### 2006 – 2008 Web Application Developer at Implix (now GetResponse)**  
 Developer in projects: [TalkStream](http://talkstream.com/) (now ClickMeeting) and [WebsiteWizard](http://websitewizard.com/).
 
 ## Non-professional experience
